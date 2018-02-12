@@ -44,4 +44,6 @@
 *.ide
 Sharp/SharpMatrix/bin/
 Sharp/SharpMatrix/obj/
+*.opendb
+Sharp/.vs/
 
